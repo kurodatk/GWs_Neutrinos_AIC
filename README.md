@@ -1,6 +1,6 @@
 GW and neutrino signals based on 3D AIC models.
 For GWs, I output
-t_pb[s]     Dh+(pole)[cm]     Dhx(pole)[cm]      Dh+(equ)[cm]      Dhx(equ)[cm]
+t_pb[s]     Dh+(pole)[cm]     Dhx(pole)[cm]      Dh+(equ)[cm]      Dhx(equ)[cm]\\
 where postbounce time t_pb [s], Dh [cm], where h+/x denote two polarized wave modes,
 and 'pole' and 'equ' are for an observer along the pole (i.e. rotational axis) and the equator (x-axis, this time), respectively.
 
